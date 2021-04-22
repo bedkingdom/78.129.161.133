@@ -1,0 +1,1 @@
+The server's settings for [bedkingdom.co.uk](https://www.bedkingdom.co.uk) (Magento 2).
